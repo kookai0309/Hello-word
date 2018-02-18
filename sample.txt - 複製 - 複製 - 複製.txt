@@ -1,0 +1,27 @@
+public static void main(String[] aaa) {
+
+	String name = "B User" ;
+	String arg = "38" ;
+}
+
+public static void B_User(){
+
+}
+
+public static void C_User(){
+
+
+	String aa ;
+	String bb ;
+	String cc ;
+	String ddef ;
+}
+
+public static void D_User(){
+
+
+	String aa ;
+	String bb ;
+	String cc ;
+	String ddef ;
+}
