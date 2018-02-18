@@ -13,6 +13,6 @@ public static void C_User(){
 
 	String aa ;
 	String bb ;
-	String cc ;
+	String cc ;11111
 	String ddef ;
 }
