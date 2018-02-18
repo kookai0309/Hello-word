@@ -16,12 +16,3 @@ public static void C_User(){
 	String cc ;
 	String ddef ;
 }
-
-public static void C_User(){
-
-
-	String aa ;
-	String bb ;
-	String cc ;
-	String ddef ;
-}
