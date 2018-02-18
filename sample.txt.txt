@@ -3,3 +3,7 @@ public static void main(String[] aaa) {
 	String name = "B User" ;
 	String arg = "38" ;
 }
+
+public static void B_User(){
+
+}
