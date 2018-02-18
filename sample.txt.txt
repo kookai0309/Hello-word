@@ -1,5 +1,5 @@
 public static void main(String[] aaa) {
 
-	String name = "A User" ;
+	String name = "B User" ;
 	String arg = "38" ;
 }
